@@ -7,6 +7,7 @@ public class glavn {
 
 		geometrijskiOlik go=new Krug(5.7);
 		System.out.println("povrsina kruga je "+go.povrsina());
+		System.out.println("");
 	}
 
 }
